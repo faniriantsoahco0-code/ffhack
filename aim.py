@@ -38,7 +38,7 @@ mdp = input("Clé : "+Fore.WHITE)
 if mdp == password:
 	 
 	print("Copier coller ce lien dans votre navigateur !!")
-	print(Fore.GREEN+"https://www.mediafire.com/file/kwdx2ucgtljn5xd/Aimbasique.mdr/file")
+	print(Fore.GREEN+"https://www.mediafire.com/file/p5z85gcbzhkvowe/Aimbasique.mdr.zip/file")
 	
 else:
-	print(Fore.RED+"Clé invalide ")
+	print(Fore.RED+"Clé invalide")
